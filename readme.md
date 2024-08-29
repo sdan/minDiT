@@ -1,4 +1,7 @@
 # simple diffusion transformer
+implements https://arxiv.org/pdf/2212.09748 in a simple, clean, and minimal way. uses a adaLN-Zero variant of the transformer block in the DiT. useful for practice not for implementation.
+
+<img width="537" alt="Screenshot 2024-08-28 at 7 19 52 PM" src="https://github.com/user-attachments/assets/5295f6d5-4cf3-4480-94d7-355055860535">
 
 ## overview
 
